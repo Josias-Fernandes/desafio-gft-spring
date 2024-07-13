@@ -1,7 +1,7 @@
 package dev.fernands.desafio_gft_spring.domain.model;
 
 import jakarta.persistence.*;
-import org.springframework.data.annotation.Id;
+
 
 import java.util.List;
 
